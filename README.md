@@ -1,4 +1,4 @@
-# 4d-miner.github.io
+# 4dminer.github.io
 
 ![4D Miner][logo]
 
@@ -9,4 +9,4 @@
 * [Subreddit](https://reddit.com/r/4D_Miner)
 * [Steam Page](https://store.steampowered.com/app/1941640/4D_Miner/)
 
-[logo]: https://4d-miner.github.io/logo.png "4D Miner"
+[logo]: https://4dminer.github.io/logo.png "4D Miner"
